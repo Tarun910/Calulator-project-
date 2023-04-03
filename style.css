@@ -1,0 +1,46 @@
+.text-center{
+    text-align: center;
+    font-family: cursive, Arial, Helvetica, sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 23px 32px;
+    margin: auto;
+}
+
+body{
+margin: 0;
+padding: 0;
+}
+
+.button{
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0px 3px;
+    width: 66px;
+    
+    font-size: large;
+}
+
+
+.row{
+    margin: 8px 0;
+  
+  }
+  
+
+.row input{
+    border: 2px solid black;
+    width: 300px;
+    padding: 12px 12px;
+    margin: 0;
+    font-size: 20px;
+   
+  }
+  
